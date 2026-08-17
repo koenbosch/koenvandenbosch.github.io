@@ -1,0 +1,5 @@
+Add your headshot as images/profile.jpg (referenced in index.html).
+The sidebar photo is displayed as a circle (170x170), so a square,
+centered headshot works best.
+
+Delete this file once you've added your real photo.

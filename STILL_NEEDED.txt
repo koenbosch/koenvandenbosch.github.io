@@ -1,0 +1,15 @@
+cv.pdf is already included (from your uploaded CV).
+
+Still to add:
+- research_statement.pdf   (linked from the "Research Statement" button)
+- jmp.pdf                  (Job Market Paper draft, linked from the paper title)
+
+The other papers (Financial Stability..., Hiding in Plain Sight, IMF Departmental
+Paper) are left as plain text (no link) since no PDF/URL was given — the sustainable-
+investors paper already links out to its SSRN page instead of a local PDF.
+
+To add a link to any currently plain-text title, open index.html, find the matching
+<h3 class="paperTitle">, and wrap the title text in:
+<a href="files/yourfile.pdf" target="_blank">Title text</a>
+
+Delete this file once everything is in place.
